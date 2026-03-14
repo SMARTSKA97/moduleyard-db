@@ -1,4 +1,0 @@
--- V1__Init_Yard_Schemas.sql
-CREATE SCHEMA IF NOT EXISTS identity;
-CREATE SCHEMA IF NOT EXISTS sysmonitor;
-CREATE SCHEMA IF NOT EXISTS athletics;
